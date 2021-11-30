@@ -27,5 +27,3 @@ prime_m2(n)
 m2f = time.time()
 
 print(m2f-m2s)
-
-
